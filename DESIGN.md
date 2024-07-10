@@ -99,6 +99,7 @@ Procedures `remove_person_from_meetup` and `add_person_to_meetup` have been crea
 
 The below entity relationship diagram describes the relationships among the most important entities in the database.
 
+
 ![ER Diagram](meetup_diagram.png)
 
 As detailed by the diagram:
